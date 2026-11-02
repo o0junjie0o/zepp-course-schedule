@@ -1,0 +1,52 @@
+# Dependencies and generated packages
+node_modules/
+dist/
+build/
+coverage/
+.nyc_output/
+*.zab
+*.zpk
+*.zpa
+
+# Local Zepp tooling and runtime course data
+.zepp/
+.zeus*
+.zpm/
+course_data.txt
+course_data.json
+course-data.local.json
+*.local.json
+*.local.js
+
+# Secrets, environment and account configuration
+.env
+.env.*
+!.env.example
+.npmrc
+.netrc
+_netrc
+.git-credentials
+credentials.json
+secrets.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+
+# Logs, editor and OS files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,5 @@
+msgid "appName"
+msgstr "课程表"
+
+msgid "desc"
+msgstr "每日课程表管理"

@@ -1,0 +1,5 @@
+msgid "appName"
+msgstr "Schedule"
+
+msgid "desc"
+msgstr "Daily course schedule manager"

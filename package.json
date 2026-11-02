@@ -1,0 +1,28 @@
+{
+  "name": "course-schedule",
+  "version": "1.0.0",
+  "description": "每日课程表 - GTR4 适配",
+  "scripts": {
+    "dev": "zeus dev",
+    "build": "zeus build",
+    "preview": "zeus preview",
+    "test": "node --experimental-vm-modules --test tests/*.test.cjs"
+  },
+  "devDependencies": {
+    "@zeppos/device-types": "^3.0.0"
+  },
+  "dependencies": {
+    "@zeppos/zml": "^0.0.9"
+  },
+  "private": true,
+  "author": "马俊杰 (o0junjie0o)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o0junjie0o/zepp-course-schedule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/o0junjie0o/zepp-course-schedule/issues"
+  },
+  "homepage": "https://github.com/o0junjie0o/zepp-course-schedule#readme",
+  "license": "UNLICENSED"
+}
